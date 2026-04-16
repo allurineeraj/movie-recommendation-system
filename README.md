@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-Live demo: [Click here](https://huggingface.co/spaces/YOUR_USERNAME/movie-recommendation-system)
+Live demo: [Click here](https://huggingface.co/spaces/neerajalluri/movie-recommendation-system)
 
 A fully deployed dual recommendation engine built on the
 MovieLens dataset with an interactive Streamlit web app.
